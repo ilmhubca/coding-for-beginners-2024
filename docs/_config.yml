@@ -22,7 +22,7 @@ title: Coding for Beginners
 # email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   The website for the Coding for Beginners course run by ilmHub.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/coding-for-beginners-2024" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  ilmhubca
 
