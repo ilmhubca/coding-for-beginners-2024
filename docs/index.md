@@ -16,7 +16,8 @@ By the end of the course, insha Allah, you'll be able to write simple programs i
 We will intentionally avoid advanced topics to keep the course accessible to beginners.
 
 ## Software Requirements
-Please install the following software before the first class:
+Please install the following software before the first class. 
+If you face any issues, we will sort them out in the first class insha Allah.
 
 1. Python: If you are on windows, go to the bottom of the [Python downloads page](https://www.python.org/downloads/release/python-3130/) where the heading says "Files". Download the Windows installer (64-bit) version.
 2. Visual Studio Code: Download the installer from [here](https://code.visualstudio.com/Download) and install it. This is the code editor we will be using in the course.
@@ -45,7 +46,7 @@ Below is the day-wise schedule for the course:
    - Loops
    - Exercise
 - 30 November 2024, Saturday
-   - Test
+   - Test based on the topics covered so far
 - 4 December 2024, Wednesday
    - Functions
    - Exercise
@@ -55,7 +56,7 @@ Below is the day-wise schedule for the course:
    - Error handling
    - Exercise
  - 14 December 2024, Saturday
-   - Test
+   - Test based on the entire course
 - 18 December 2024, Wednesday
    -  Review and wrap-up
 
