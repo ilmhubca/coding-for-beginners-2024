@@ -4,6 +4,8 @@ layout: post
 permalink: /intro/
 ---
 
+!! This page is a work in progress !!
+
 ## *Reading* code
 Below are some examples of Python code.
 What do you think each code does?
