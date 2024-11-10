@@ -19,12 +19,12 @@ We will intentionally avoid advanced topics to keep the course accessible to beg
 Please install the following software before the first class. 
 If you face any issues, we will sort them out in the first class insha Allah.
 
-- **Python**: If you are on Windows or Mac, go to the bottom of the [Python downloads page](https://www.python.org/downloads/release/python-3130/) where the heading says "Files". Download and install the file that says "Windows installer (64-bit)" for Windows or "macOS 64-bit universal2 installer" for Mac.
+- **Python**: If you are on Windows or Mac, go to the bottom of the [Python downloads page](https://www.python.org/downloads/release/python-3130/) where the heading says *Files*.
+Download and install the file that says *Windows installer (64-bit)* for Windows or *macOS 64-bit universal2 installer* for Mac.
 - **Visual Studio Code**: Download the installer from [here](https://code.visualstudio.com/Download) and install it. This is the code editor we will be using in the course.
 
 ## Course Schedule
-The classes will be on Saturdays and Wednesdays from 5:30 PM to 7:00 PM. 
-The Wednesday time is tentative and may change based on discussions with the participants.
+The classes will be on Saturdays from 5:30 PM to 7:00 PM and Wednesdays from 7:15 PM to 8:45 PM.
 Below is the day-wise schedule for the course:
 
 - 16 November 2024, Saturday
