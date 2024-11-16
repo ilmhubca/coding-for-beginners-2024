@@ -4,8 +4,6 @@ layout: post
 permalink: /intro/
 ---
 
-!! This page is a work in progress !!
-
 ## *Reading* code
 Below are some examples of Python code.
 What do you think each code does?
@@ -45,7 +43,7 @@ What is missing in the code above?
 ## Running code online
 Ideally, you would run the code on your computer.
 But it will require some installation, so let's start by running them online.
-Open https://www.online-python.com/ and paste any of the code above, then press run.
+Open [https://www.online-python.com/](https://www.online-python.com/) and paste any of the code above, then press run.
 
 
 ## Writing your first code
@@ -87,4 +85,5 @@ Try to write the following codes. Save them in the project folder and run them. 
 2. (`name-age.py`) Write a code that asks the user for their name and age, and prints them.
 3. (`add.py`) Write a code that asks the user for two numbers and prints their sum.
 4. (`positive-or-negative.py`) Write a code that asks the user for a number and prints `+` if it is positive, `-` if it is negative and `zero` if it is zero.
+
 
