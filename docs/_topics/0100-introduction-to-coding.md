@@ -4,7 +4,7 @@ layout: post
 permalink: /intro/
 ---
 
-## *Reading* code
+## Reading code
 Below are some examples of Python code.
 What do you think each code does?
 
