@@ -6,14 +6,28 @@ permalink: /data-and-variables/
 
 ## Program data
 When coding, we are processing data in many ways.
-We use *variables* to store data in a program.
-In the example below, `a` and `b` are variables.
+We use *variables* to give names to data.
+In the example below, `a`, `b`, and `sum` are variables.
 ```python
 a = int(input("Enter a number: "))
 b = int(input("Enter another number: "))
 sum = a + b
 print("The sum is:", sum)
 ```
+
+Now, the names have to be meaningful and related to the data they represent.
+For example, `a` and `b` are not meaningful names.
+
+Let's change the names and see if the code makes more sense.
+```python
+number_of_kids = int(input("Enter the number of kids: "))
+number_of_adults = int(input("Enter the number of adults: "))
+total_people = number_of_kids + number_of_adults
+print("The total number of people in class:", total_people)
+```
+
+In the examples, we will often use not-so-meaningful names to keep the code short.
+But when solving a real problem, we should always use meaningful names.
 
 Variables are called variables because their value can change.
 For example, in the code below, the value of `a` is changed from 5 to 10.
