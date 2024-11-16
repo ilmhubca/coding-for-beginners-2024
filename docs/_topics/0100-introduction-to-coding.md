@@ -8,12 +8,12 @@ permalink: /intro/
 Below are some examples of Python code.
 What do you think each code does?
 
-### Example 1
+**Example 1**
 ```python
 1+2
 ```
 
-### Example 2
+**Example 2**
 ```python
 a = 5
 b = 3
@@ -21,7 +21,7 @@ sum = a + b
 print("The sum is:", sum)
 ```
 
-### Example 3:
+**Example 3**
 ```python
 a = int(input("Enter a number: "))
 b = int(input("Enter another number: "))
@@ -29,7 +29,7 @@ sum = a + b
 print("The sum is:", sum)
 ```
 
-### Example 4
+**Example 4**
 ```python
 number = int(input("Enter a number: "))
 
@@ -52,7 +52,7 @@ We will use the code editor Visual Studio Code to write code.
 
 First, create a folder on your computer where you will save your code.
 Name the folder `<your-name>-cfb` without the angle brackets.
-We will use this same folder throughout the course, we will call this *The Project*.
+We will use this same folder throughout the course.
 
 Now, open Visual Studio Code and click on `File` > `Open Folder`.
 Show the folder you just created and click `Open`.
@@ -79,11 +79,11 @@ It will ask your name, and welcome you to the course.
 Congratulations! You have written and run your first code.
 
 ## Exercises
-Try to write the following codes. Save them in the project folder and run them. The file names are in parentheses.
+Try to write the following codes.
 
-1. (`age.py`) Write a code that asks the user for their age and prints it.
-2. (`name-age.py`) Write a code that asks the user for their name and age, and prints them.
-3. (`add.py`) Write a code that asks the user for two numbers and prints their sum.
-4. (`positive-or-negative.py`) Write a code that asks the user for a number and prints `+` if it is positive, `-` if it is negative and `zero` if it is zero.
+- `A1` Write a code that asks the user for their age and prints it.
+- `A2` Write a code that asks the user for their name and age, and prints them.
+- `A3` Write a code that asks the user for two numbers and prints their sum.
+- `A4` Write a code that asks the user for a number and prints `+` if it is positive, `-` if it is negative and `zero` if it is zero.
 
 

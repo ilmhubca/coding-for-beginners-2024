@@ -4,8 +4,6 @@ layout: post
 permalink: /data-and-variables/
 ---
 
-!! This page is a work in progress !!
-
 ## Program data
 When coding, we are processing data in many ways.
 We use *variables* to store data in a program.
@@ -68,10 +66,10 @@ All the *things* you saw between quotes in the code above are strings.
 
 You can *add* strings together, which is called concatenation.
 ```python
-name = "Abdullah"
+first_name = "Abdullah"
 father_name = "Zubair"
 
-full_name = name + " bin " + father_name
+full_name = first_name + " bin " + father_name
 print("Full name: ", full_name)
 ```
 
@@ -97,16 +95,16 @@ print(number + 2)
 ```
 
 ## Exercises
-1. Predict the output of the following code before running it:
+- `B1` Predict the output of the following code before running it:
 ```python
 x = 10
 y = x
 x = 20
 print(y)
 ```
-2. Take a number as input and print its square. For example, if the input is `5`, the output should be `25`.
-3. Write a code that ask the user their name and age, and print them as "You are, *name*! You are *age* years old."
-4. Write a code that asks the user to enter their first name, the father's name, and gender. Print their full name using bin or bint based on the gender.
+- `B2` Take a number as input and print its square. For example, if the input is `5`, the output should be `25`.
+- `B3` Write a code that ask the user their name and age, and print them as "You are, *name*! You are *age* years old."
+- `B4` Write a code that asks the user to enter their first name, the father's name, and gender. Print their full name using bin or bint based on the gender.
 
 ## Explore
 Try running below examples. If there is an error, read the error and try to understand what went wrong.
