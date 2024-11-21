@@ -8,12 +8,12 @@ permalink: /intro/
 Below are some examples of Python code.
 What do you think each code does?
 
-**Example 1**
+**Example A1**
 ```python
 1+2
 ```
 
-**Example 2**
+**Example A2**
 ```python
 a = 5
 b = 3
@@ -21,7 +21,7 @@ sum = a + b
 print("The sum is:", sum)
 ```
 
-**Example 3**
+**Example A3**
 ```python
 a = int(input("Enter a number: "))
 b = int(input("Enter another number: "))
@@ -29,7 +29,7 @@ sum = a + b
 print("The sum is:", sum)
 ```
 
-**Example 4**
+**Example A4**
 ```python
 number = int(input("Enter a number: "))
 
@@ -60,6 +60,7 @@ Show the folder you just created and click `Open`.
 From within Visual Studio Code, create a new file in the project, and name it `greet.py`.
 Copy and paste the code below into the file.
 
+**Example A5**
 ```python
 name = input("Enter your name: ")
 print("Salam, " + name + ".")
@@ -81,9 +82,9 @@ Congratulations! You have written and run your first code.
 ## Exercises
 Try to write the following codes.
 
-- `A1` Write a code that asks the user for their age and prints it.
-- `A2` Write a code that asks the user for their name and age, and prints them.
-- `A3` Write a code that asks the user for two numbers and prints their sum.
-- `A4` Write a code that asks the user for a number and prints `+` if it is positive, `-` if it is negative and `zero` if it is zero.
+- `A6` Write a code that asks the user for their age and prints it.
+- `A7` Write a code that asks the user for their name and age, and prints them.
+- `A8` Write a code that asks the user for two numbers and prints their sum.
+- `A9` Write a code that asks the user for a number and prints `+` if it is positive, `-` if it is negative and `zero` if it is zero.
 
 
