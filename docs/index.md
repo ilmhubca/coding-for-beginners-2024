@@ -51,9 +51,10 @@ Below is the day-wise schedule for the course:
    - Functions
    - Exercise
 - 7 December 2024, Saturday
-   - Writing functions
-- 11 December 2024, Wednesday
    - Error handling
+   - Exercise
+- 11 December 2024, Wednesday
+   - Using libraries
    - Exercise
  - 14 December 2024, Saturday
    - Test based on the entire course

@@ -130,9 +130,7 @@ y = x
 x = 20
 print(y)
 ```
-- `B10` Take a number as input and print its square. For example, if the input is `5`, the output should be `25`.
-- `B11` Write a code that ask the user their name and age, and print them as "You are, *name*! You are *age* years old."
-- `B12` Write a code that asks the user to enter their first name, the father's name, and gender. Print their full name using bin or bint based on the gender.
+- `B10` Take a number as input and print its square. For example, if the input is `5`, print `square of 5 is 25`.
 
 ## Explore
 Try running below examples. If there is an error, read the error and try to understand what went wrong.
