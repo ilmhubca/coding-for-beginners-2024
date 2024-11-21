@@ -118,7 +118,7 @@ number = int(number_as_text)
 
 Try running the code below. What will it print? `7` or `52`?
 ```python
-a = '5'
+number = '5'
 print(number + 2)
 ```
 
