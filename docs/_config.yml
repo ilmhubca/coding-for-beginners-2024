@@ -36,7 +36,13 @@ collections:
 
 syntax_highlighter_style: github
 
+kramdown:
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    guess_lang: true
+#    line_numbers: true
 
+    
 
 # exclude:
 #   - .sass-cache/
