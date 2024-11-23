@@ -43,7 +43,7 @@ What is missing in the code above?
 ## Running code online
 Ideally, you would run the code on your computer.
 But it will require some installation, so let's start by running them online.
-Open [https://www.online-python.com/](https://www.online-python.com/) and paste any of the code above, then press run.
+Open [https://www.programiz.com/python-programming/online-compiler/](https://www.programiz.com/python-programming/online-compiler/) and paste any of the code above, then press run.
 
 
 ## Writing your first code
