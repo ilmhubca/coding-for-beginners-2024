@@ -158,3 +158,6 @@ We will discuss details about these statements in the next lesson. However, we d
 
 3. `C16` Write a program that takes input a number and prints `Yes` if the number is a multiple of 3 and 5, otherwise print `No`.
 
+4. Build a simple calculator that takes input two numbers and an operator (`+`, `-`, `*`, `/`) and prints the result.
+
+5. Write a program that takes input three numbers and prints the largest and smallest among them.
