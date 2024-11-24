@@ -3,9 +3,10 @@ title: Operators
 layout: post
 permalink: /operators/
 ---
-We used some operators in the previous lessons.
+We are familiar with the concept of operators from mathematics. For example, `+`, `-`, `*`, and `/` are operators in mathematics. 
+
+In programming, operators are used to perform operations on variables and values. We used some operators in the previous lessons.
 For example, we used the `+` operator to add two numbers, as well as to join (or concatenate) two strings.
-For example:
 
 **Example C1**    
 ```python
@@ -33,7 +34,7 @@ print("floor division", a // b)
 ```
 
 ## Comparison operators
-Comparison operators are used to compare two values.
+Comparison operators are used to compare two variables and/or values.
 Result of comparison operators is a boolean value: `True` or `False`.
 
 **Example C3**
@@ -48,7 +49,7 @@ print("greater than or equal", a >= b)
 print("less than or equal", a <= b)
 ```
 
-String data can also be compared using comparison operators.
+String variables can also be compared using comparison operators.
 
 **Example C4**
 ```python
@@ -66,6 +67,7 @@ print("less than or equal", city_1 <= city_2)
 `and`, `or`, and `not` are logical operators.
 `and` and `or` are used to combine two boolean values.
 
+`and` operator is used to check if both the conditions are true.
 For example, if you want to check if a number is between 3 and 10, you can use the `and` operator.
 
 **Example C5**
@@ -95,6 +97,7 @@ print("not 3", not number == 3)
 
 When the expressions are complex, you can use parentheses to group them.
 For example, to check if a number is between 3 and 10 or between 20 and 30, you can write:
+
 **Example C8**
 ```python
 number = 25
@@ -114,6 +117,7 @@ print(a)
 ```
 
 The above code is equivalent to:
+
 **Example C10**
 ```python
 a = 5
@@ -133,6 +137,7 @@ print(result)
 ```
 
 The above code is equivalent to:
+
 **Example C12**
 ```python
 result = 5 + (3 * 2)
@@ -140,6 +145,7 @@ print(result)
 ```
 
 But if you want to add 5 and 3 first, you can use parentheses.
+
 **Example C13**
 ```python
 result = (5 + 3) * 2
