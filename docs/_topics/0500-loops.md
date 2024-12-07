@@ -78,14 +78,34 @@ while i < 5:
     print(i)
 ```
 
+There is also a `for` loop which you can use to iterate over a collection. For example, you can use a `for` loop to iterate over a list of student names.
 
-!! This page is a work in progress !!
+**Example F7**
+```python
+students = ["Abdullah", "Asad", "Zulqarnayn", "Huzaifa", "Freicy", "Nasrullah"]
+for student in students:
+    print(student)
+```
 
-Topics to cover:
-1.  While loop
-2.  For loop
-3.  Continue
-4.  Break
-5.  Nesting loops
+### Exercises
+1. Use a `while` loop to print the list of students.
+2. Print the below pattern using a loop.
+```
+*
+**
+***
+****
+*****
+```
+3. Take a number, `n`, as input, and print `n` rows of the below pattern.
+```
+*
+--
+***
+----
+*****
+------
+```
+
 
 
